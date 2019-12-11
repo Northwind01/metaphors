@@ -1,5 +1,5 @@
 # metaphors
-Springboard Capstone Project
+Springboard Capstone Project (NLP/NLU)
 
 It is all about the cognitive leap: what does it mean to *suddenly understand* something and how humans connect the dots. 
 When I learn new things (a new for me field of knowledge) I examine it as follows:
